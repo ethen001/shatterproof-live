@@ -9,4 +9,4 @@ Using this chat box, we can use a social media marketing campaign to pick up use
 * Link to chatbot: https://www.facebook.com/shatterprooflive
 
 The data collected by the chatbot is directed to a website such that Shatterproof is able to manage their patients and make data-drien decision.
-* Link to website: https://http://shatterprooflive.herokuapp.com/
+* Link to website: https://shatterprooflive.herokuapp.com/
